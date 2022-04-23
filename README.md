@@ -1,5 +1,5 @@
 <h1 align="center">Hello! 👋, I'm Bimla Gadtaula</h1>
-- 🌱 I’m currently looking forward **Web development** intern
+- 🌱 I’m currently learning **Web development** 
 
 - 📫 How to reach me **gdbimla@gmail.com**
 
