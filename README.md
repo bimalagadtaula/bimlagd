@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bimla Gadtaula</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bimlagd&label=Profile%20views&color=0e75b6&style=flat" alt="bimlagd" /> </p>
 
-- 🌱 I’m currently learning **Frontend development**
+- 🌱 I’m currently learning **Web development**
 
 - 📫 How to reach me **gdbimla@gmail.com**
 
