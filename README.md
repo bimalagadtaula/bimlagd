@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Web development**
 
-- 📫 How to reach me **gdbimla@gmail.com**
+- 📫 How to reach me **bimlagd@gmail.com**
 
 - 📄 Know about my experiences [https://bimlagd.github.io/bimlagdprofile/](https://bimlagd.github.io/bimlagdprofile/)
 
